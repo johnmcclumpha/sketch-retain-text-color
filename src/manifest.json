@@ -3,7 +3,7 @@
   "description": "Retains original text color when applying text styles",
   "author": "John McClumpha",
   "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
-  "version": "0.1",
+  "version": "1.0.0",
   "identifier": "au.com.mcclumpha.retain-text-color",
   "icon": "icon.png",
   "commands": [
