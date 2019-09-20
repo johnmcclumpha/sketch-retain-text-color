@@ -1,4 +1,4 @@
-# Sketch: Retain Text Color
+# Sketch Plugin: Retain Text Color
 
 This plugin retains the original color of text layers when applying a Text Style.
 
