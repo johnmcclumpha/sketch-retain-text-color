@@ -1,6 +1,12 @@
-# sketch-retain-text-color
+# Sketch: Retain Text Color
 
-This plugin reatains the original color of text layers when applying a Text Style. 
+This plugin retains the original color of text layers when applying a Text Style.
+
+### But why do I need this?
+
+So often when defining text styles for a shared library, there's a number of different sizes, font weights, and more. Once you've defined all of these they need to be duplicated for each color variant that may apply.
+
+By removing the color override from text styles (or at least re-applying the original color) the need to define this plethora of styles is removed.
 
 ## Installation
 
