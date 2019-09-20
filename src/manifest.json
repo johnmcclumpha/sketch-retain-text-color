@@ -2,9 +2,9 @@
   "name": "Retain Text Color",
   "description": "Retains original text color when applying text styles",
   "author": "John McClumpha",
+  "homepage": "https://github.com/johnmcclumpha/sketch-retain-text-color",
   "version": "0.1",
   "identifier": "au.com.mcclumpha.retain-text-color",
-  "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
   "commands": [
     {
