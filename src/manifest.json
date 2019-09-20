@@ -1,0 +1,21 @@
+{
+  "name": "Retain Text Color",
+  "description": "Retains original text color when applying text styles",
+  "author": "John McClumpha",
+  "version": "0.1",
+  "identifier": "au.com.mcclumpha.retain-text-color",
+  "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "apply-text-style",
+      "identifier": "retain-text-color.apply-text-style",
+      "script": "./apply-text-style.js",
+      "handlers" : {
+        "actions" : {
+          "ApplySharedTextStyle": "onTextStyleChange"
+        }
+      }
+    }
+  ]
+}
