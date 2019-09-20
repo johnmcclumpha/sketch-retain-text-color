@@ -1,6 +1,5 @@
 {
   "name": "sketch-retain-text-color",
-  "description": "",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=49.0"
@@ -22,5 +21,9 @@
   },
   "devDependencies": {
     "@skpm/builder": "^0.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmcclumpha/sketch-retain-text-color.git"
   }
 }
